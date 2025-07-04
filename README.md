@@ -19,6 +19,7 @@ It supports adding, viewing, searching, updating, and deleting contacts with per
 ## 🛠️ Technologies Used
 
 - Python 3
+- JSON for data storage
 - Command Line Interface (CLI)
 
 ---
@@ -27,6 +28,7 @@ It supports adding, viewing, searching, updating, and deleting contacts with per
 
 contact_book_project/
 ├── contact_book.py # Main Python script
+└── contacts.json # Stores contact data in JSON format
 py contact_book.py
 
 Sample Menu Interface
