@@ -19,7 +19,6 @@ It supports adding, viewing, searching, updating, and deleting contacts with per
 ## 🛠️ Technologies Used
 
 - Python 3
-- JSON for data storage
 - Command Line Interface (CLI)
 
 ---
